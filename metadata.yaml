@@ -1,11 +1,16 @@
 _repo: Antonio-Broijer-Historiallis-romantillinen-kertomus-vuodelta-1599_65911
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ronimus, J. V.
     gutenberg_agent_id: '53545'
     url: http://www.gutenberg.org/2009/agents/53545
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65911#Antonio-Broijer-Historiallis-romantillinen-kertomus-vuodelta-1599
 gutenberg_issued: '2021-07-24'
 gutenberg_type: Text
 identifiers:
